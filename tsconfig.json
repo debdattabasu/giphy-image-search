@@ -1,0 +1,18 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "es2015",
+        "module": "commonjs",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "preserveConstEnums": true,
+        "jsx": "react", 
+        "esModuleInterop": true
+    },
+    "exclude": [
+       "node_modules"
+    ]
+}
